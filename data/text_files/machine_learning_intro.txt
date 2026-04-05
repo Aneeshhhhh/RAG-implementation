@@ -1,0 +1,7 @@
+Machine Learning Introduction
+
+Machine learning is a branch of artificial intelligence that enables systems to learn patterns from data and improve performance over time.
+Instead of explicitly programming every rule, developers train models that generalize from examples to make predictions or decisions.
+
+Common learning styles include supervised learning, unsupervised learning, and reinforcement learning.
+Machine learning is used in recommendation systems, fraud detection, forecasting, computer vision, and natural language processing.
